@@ -1,0 +1,6 @@
+lentokentta\logiikka\Lentohallinta.class
+lentokentta\domain\Lento.class
+lentokentta\ui\Tekstikayttoliittyma.class
+lentokentta\domain\Lentokone.class
+lentokentta\Main.class
+lentokentta\domain\Paikka.class
